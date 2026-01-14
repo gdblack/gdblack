@@ -1,16 +1,21 @@
-## Hi there 👋
+# Grant Black
 
-<!--
-**gdblack/gdblack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hands-on fullstack engineer with 14+ years building production systems where correctness and reliability matter.  
+I build primarily in TypeScript with Next.js and Node, and I care a lot about clean architecture, TDD, and shipping software that holds up in production.
 
-Here are some ideas to get you started:
+## What I work with
+- TypeScript, JavaScript (ES6+)
+- Next.js, React, component-driven UI
+- Node.js APIs and service workflows
+- AWS serverless patterns (API Gateway, Lambda)
+- TDD and quality-focused delivery
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+- **demo-site** — Next.js + Strapi monorepo showing modern fullstack patterns (API-driven content, UI, data flows)
+- **lee-county-property-scraper** — serverless API with tests and deploy workflow
+- **gdb-component-library** — reusable React component library written in TypeScript
+
+## Links
+- LinkedIn: https://www.linkedin.com/in/grantdblack
+- Resume: (drop your resume link here, Google Drive or personal site)
+
