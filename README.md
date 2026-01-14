@@ -1,4 +1,4 @@
-# Yo, I'm Grant.
+# Yo, I'm Grant.👋😎
 
 I’m a hands-on engineering leader with 14+ years in fullstack development. I’ve gone from building day-to-day features to modernizing SaaS platforms and distributed systems used by millions of employees, where reliability and clarity really matter.
 
