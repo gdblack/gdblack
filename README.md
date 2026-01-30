@@ -13,6 +13,7 @@ Currently building: small fullstack apps and tools that mix practical engineerin
 - TypeScript, JavaScript (ES6+)
 - Next.js, React
 - Node.js APIs and service workflows
+- C#/.NET
 - AWS serverless patterns
 - Authentication and enterprise integrations
 
