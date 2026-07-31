@@ -1,6 +1,6 @@
 # Yo, I'm Grant.👋😎
 
-I’m a hands-on engineering leader with 14+ years in fullstack development. I’ve gone from building day-to-day features to modernizing SaaS platforms and distributed systems used by millions of employees, where reliability and clarity really matter.
+I’m a hands-on engineering leader with 15+ years in fullstack development. I’ve gone from building day-to-day features to modernizing SaaS platforms and distributed systems used by millions of employees, where reliability and clarity really matter.
 
 These days I’m focused on building practical systems in TypeScript with Next.js and Node, and keeping things simple, clean, and shippable.
 
